@@ -6,7 +6,7 @@ package com.mycompany.ekspedisipaket.layanan;
 
 /**
  *
- * @author syahrilfarhan
+ * @author Alfin
  */
 public class LayananEkonomi implements LayananPengiriman{
     private static final double TARIF_PER_KG = 7_000;
