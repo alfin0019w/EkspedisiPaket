@@ -6,7 +6,7 @@ package com.mycompany.ekspedisipaket.layanan;
 
 /**
  *
- * @author syahrilfarhan
+ * @author Alfin
  */
 public interface BisaDiasuransikan {
     double getBiayaAsuransi();  
