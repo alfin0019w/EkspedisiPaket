@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author syahrilfarhan
+ * @author Alfin
  */
 public class PengirimanService {
     
