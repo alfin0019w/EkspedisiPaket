@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author syahrilfarhan
+ * @author Alfin
  */
 public class FormPengiriman extends javax.swing.JFrame {
     
