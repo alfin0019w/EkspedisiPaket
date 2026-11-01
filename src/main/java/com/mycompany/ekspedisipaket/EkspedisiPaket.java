@@ -6,7 +6,7 @@ package com.mycompany.ekspedisipaket;
 
 /**
  *
- * @author syahrilfarhan
+ * @author Alfin
  */
 public class EkspedisiPaket {
 
