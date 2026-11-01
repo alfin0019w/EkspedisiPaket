@@ -6,7 +6,7 @@ package com.mycompany.ekspedisipaket.model;
 
 /**
  *
- * @author syahrilfarhan
+ * @author Alfin
  */
 public class Pengiriman {
     private final String penerima;
