@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author syahrilfarhan
+ * @author Alfin
  */
 public class RiwayatArrayList implements RiwayatRepository{
     private final List<Pengiriman> daftar = new ArrayList<>();
