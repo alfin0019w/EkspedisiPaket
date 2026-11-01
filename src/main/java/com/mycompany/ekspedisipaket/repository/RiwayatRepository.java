@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author syahrilfarhan
+ * @author Alfin
  */
 public interface RiwayatRepository {
     void simpan(Pengiriman pengiriman);
